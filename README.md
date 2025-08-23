@@ -8,7 +8,7 @@ In this task, I explored Git and GitHub to understand how version control system
 
 ## Learning Outcomes ✨
 
-- Understood the difference between Git(VCS) and GitHub (hosting platform).
+- Understood the difference between Git (VCS) and GitHub (hosting platform).
 
 - Learned why version control is essential in collaborative software development.
 
@@ -17,6 +17,8 @@ In this task, I explored Git and GitHub to understand how version control system
 - Set up SSH keys for secure GitHub authentication.
 
 - Experienced how GitHub can serve as a portfolio of projects.
+
+- Gained knowledge of branching, forking, and undoing tasks in Git workflows.
 
 ## Mini Challenge 🎯
 
